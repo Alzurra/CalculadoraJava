@@ -1,6 +1,7 @@
 # CalculadoraJava
 
-This project was created using Java language. To create this calculator, the IDE used was NetBeans (JFrame).
+This project was created using Java language. 
+To create this calculator, the IDE(Integrated Development Environment) used was NetBeans (JFrame).
 
 ![image](https://user-images.githubusercontent.com/64970716/104103166-61332c80-527f-11eb-9c76-cdeeb04ce038.png)
 
